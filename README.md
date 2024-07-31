@@ -5,10 +5,12 @@ Vite 매뉴얼 스캐폴딩
 <hr>
 <h4>스캐폴딩</h4>
 
-1. ```degit clouood111/vite-react <프로젝트 이름>```
+```
+1. degit clouood111/vite-react <프로젝트 이름>
+2. npm i
+3. npm run dev
+```
 
-2. ```npm i```
-3. ```npm run dev```
 <hr>
 <h4>폴더 구조</h4>
 
