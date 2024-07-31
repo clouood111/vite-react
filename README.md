@@ -12,7 +12,7 @@ Vite 매뉴얼 스캐폴딩
 <hr>
 <h4>폴더 구조</h4>
 
- ─ vite-custom-template
+``` ─ vite-custom-template
 │     ├─ .gitignore
 │     ├─ .npmrc
 │     ├─ eslint.config.js
@@ -30,6 +30,7 @@ Vite 매뉴얼 스캐폴딩
 │     │  └─ styles
 │     │     └─ global.css
 │     └─ vite.config.js
+```
 <hr>
 <h4>느낀 점</h4>
 <p>리액트 선행 학습이 안되어 있어서 수업 때 이해가 되지 않는 내용들이 많았다. 그래도 과제를 하면서 공식 문서도 찾아보고 리액트에 대해 조금은 탐구해 볼 수 있는 기회가 되었다. 학습을 하다 보니 JS 개념 이해가 부족해서 리액트와 Js 학습을 병행하면서 보완해야겠다. 
